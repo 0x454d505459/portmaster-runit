@@ -1,0 +1,2 @@
+#!/bin/sh
+/var/lib/portmaster/portmaster-start  core
