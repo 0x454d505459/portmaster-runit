@@ -1,7 +1,3 @@
----
-
----
-
 # portmaster-runit
 
 ## Description
@@ -12,7 +8,7 @@ AUR package letting you use the great [portmaster](https://safing.io/portmaster)
 
 ### Note:
 
-Installing from the AUR is not yet available, and so does the *Lazy Installation*
+The package is now available on the [AUR](https://aur.archlinux.org/packages/portmaster-runit/)
 
 #### Source install
 
@@ -26,7 +22,7 @@ Use `makepkg` to create and install the package
 
 `makepkg -si`
 
-#### AUR installation (doesn't work right now)
+#### AUR installation
 
 Just install from the [AUR](https://aur.archlinux.org/) with your favourite helper:
 
