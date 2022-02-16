@@ -1,2 +1,2 @@
 #!/bin/sh
-/var/lib/portmaster/portmaster-start  core
+/opt/safing/portmaster/portmaster-start core
